@@ -11,7 +11,6 @@
 - 🎓 I'm currently pursuing **M.Sc. in Information Technology**
 - 💬 Ask me about: **PHP, Django, JS, HTML, CSS, MySQL, AI/ML, Firebase**
 - 💡 I love building: **Web Apps**, **AI-powered tools**, and **E-commerce platforms**
-- ✨ Fun Fact: I build ✨beautiful UIs✨ and make them functional too
 - 📫 Reach me at: [suratwalavraj@gmail.com]
 
 ---
