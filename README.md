@@ -12,16 +12,6 @@
 - 💬 Ask me about: **PHP, Django, JS, HTML, CSS, MySQL, AI/ML, Firebase**
 - 💡 I love building: **Web Apps**, **AI-powered tools**, and **E-commerce platforms**
 - 📫 Reach me at: [suratwalavraj@gmail.com]
-
----
-
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/vrajsuratwala" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/vrajsuratwala" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="suratwalavraj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</p>
-
 ---
 
 ### 🛠️ My Toolbox
