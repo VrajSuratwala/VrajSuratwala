@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/hvruS9jM6iP2I/giphy.gif" width="50px" alt="Waving Hand" style="margin-top: 10px;">
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=VrajSuratwala&label=👀+Profile+Views&color=ff69b4&style=flat-square" alt="profile views"/>
 </p>
 
@@ -10,14 +14,12 @@
 
 ## 🧑‍💻 About Me
 
-🎓 Pursuing **M.Sc. in Information Technology**  
-🧠 Always exploring new things in **AI/ML**, **Web Dev**, and **Cloud**  
-💬 Ask me about: `PHP`, `Django`, `MySQL`, `JavaScript`, `Firebase`, `AI Models`  
+🎓 Pursuing **M.Sc. in Information Technology** 🧠 Always exploring new things in **AI/ML**, **Web Dev**, and **Cloud** 💬 Ask me about: `PHP`, `Django`, `MySQL`, `JavaScript`, `Firebase`, `AI Models`  
 📫 Mail me at: [suratwalavraj@gmail.com](mailto:suratwalavraj@gmail.com)
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 My Digital Toolkit
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,django,mysql,firebase,github" />
@@ -25,19 +27,21 @@
 
 ---
 
-## 🧩 Featured Projects
+## 🧩 Featured Projects: Explore My Creations!
 
 | Project | Preview | Tech Stack |
-|--------|---------|------------|
-| **Homemade Heaven 🛍️** | ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xobDh5YjU3a3B3cW5vOTVnMWRsbDd4ZzA0aGFkczA4aWZ0NzZrNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tPghhb3107MvJB2/giphy.gif) | PHP, MySQL, JavaScript, Firebase |
-| **AI Leaf Detector 🌿** | ![demo](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif) | Python, OpenCV, ML, Flask |
+|:-------:|:-------:|:----------:|
+| **Homemade Heaven 🛍️** | [![Homemade Heaven Demo](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID) <br> *(Click for Live Demo!)* | PHP, MySQL, JavaScript, Firebase |
+| **AI Leaf Detector 🌿** | [![AI Leaf Detector Demo](https://img.youtube.com/vi/YOUR_SECOND_YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_SECOND_YOUTUBE_VIDEO_ID) <br> *(Click for Live Demo!)* | Python, OpenCV, ML, Flask |
+
+*Replace `YOUR_YOUTUBE_VIDEO_ID` with actual YouTube video IDs. If you don't have videos, keep your GIFs, but consider making them more dynamic or adding a "Click to Watch" button image.*
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VrajSuratwala&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VrajSuratwala&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VrajSuratwala&theme=radical&hide_border=true" width="48%" />
 </p>
 
@@ -47,20 +51,20 @@
 
 ---
 
-## 📚 Currently Learning
+## 📚 Continuously Evolving: What I'm Learning Next!
 
-- 🤖 Machine Learning with `TensorFlow`, `Scikit-learn`
-- 🔐 Cybersecurity basics
-- ☁️ Cloud Functions with `Firebase` and `GCP`
+- 🤖 Diving deeper into **Machine Learning** with `TensorFlow` and `Scikit-learn`
+- 🔐 Fortifying my knowledge in **Cybersecurity basics**
+- ☁️ Mastering **Cloud Functions** with `Firebase` and `GCP`
 
 ---
 
 <h3 align="center">✨ Let's connect and build something cool! ✨</h3>
 
 <p align="center">
-  <a href="mailto:suratwalavraj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:suratwalavraj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:suratwalavraj@gmail.com"/></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/your-link" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white&link=https://your-portfolio.com" /></a>
 </p>
 
 ---
