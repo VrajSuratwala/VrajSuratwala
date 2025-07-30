@@ -27,17 +27,6 @@
 
 ---
 
-## 🧩 Featured Projects: Explore My Creations!
-
-| Project | Preview | Tech Stack |
-|:-------:|:-------:|:----------:|
-| **Homemade Heaven 🛍️** | [![Homemade Heaven Demo](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID) <br> *(Click for Live Demo!)* | PHP, MySQL, JavaScript, Firebase |
-| **AI Leaf Detector 🌿** | [![AI Leaf Detector Demo](https://img.youtube.com/vi/YOUR_SECOND_YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_SECOND_YOUTUBE_VIDEO_ID) <br> *(Click for Live Demo!)* | Python, OpenCV, ML, Flask |
-
-*Replace `YOUR_YOUTUBE_VIDEO_ID` with actual YouTube video IDs. If you don't have videos, keep your GIFs, but consider making them more dynamic or adding a "Click to Watch" button image.*
-
----
-
 ## 📊 My GitHub Journey
 
 <p align="center">
