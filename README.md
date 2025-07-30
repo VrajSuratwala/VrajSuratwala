@@ -1,20 +1,23 @@
-<h1 align="center">Hi 👋, I'm Vraj Suratwala</h1>
-<h3 align="center">🚀 A passionate MSCIT student from India 🇮🇳</h3>
+<h1 align="center">Hey there 👋, I'm <span style="color:#ff5e5e;">Vraj Suratwala</span></h1>
+<h3 align="center">🚀 Passionate MSCIT Student | Code Alchemist | Tech Dreamer from 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VrajSuratwala&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=VrajSuratwala&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-### 👨‍🎓 About Me
-- 🎓 I'm currently pursuing **M.Sc. in Information Technology**
-- 💬 Ask me about: **PHP, Django, JS, HTML, CSS, MySQL, AI/ML, Firebase**
-- 💡 I love building: **Web Apps**, **AI-powered tools**, and **E-commerce platforms**
-- 📫 Reach me at: [suratwalavraj@gmail.com]
+## 👨‍💻 About Me
+
+✨ I’m a curious creator who turns coffee into code and ideas into **impactful projects**.  
+🎓 Currently pursuing **M.Sc. in Information Technology**  
+💡 I love crafting **Web Apps**, **AI tools**, and **Smart E-commerce platforms**  
+💬 Talk to me about: `PHP`, `Django`, `JavaScript`, `HTML/CSS`, `MySQL`, `Firebase`, `AI/ML`  
+📫 Reach out: [suratwalavraj@gmail.com](mailto:suratwalavraj@gmail.com)
+
 ---
 
-### 🛠️ My Toolbox
+## 🛠️ Tech Stack
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
@@ -28,28 +31,31 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VrajSuratwala&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=VrajSuratwala&show_icons=true&theme=radical" alt="GitHub stats" />
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VrajSuratwala&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 🧠 Currently Learning
-- 🤖 AI & Machine Learning (using Python & TensorFlow)
-- 🔐 Cybersecurity fundamentals
-- ☁️ Cloud Deployment using Firebase and Google Cloud
+## 🔭 Currently Exploring
+- 🤖 Deep dive into **AI & ML** using `TensorFlow` and `OpenCV`
+- 🔐 Learning **Cybersecurity fundamentals** (because safety first!)
+- ☁️ Experimenting with **Firebase + Google Cloud deployments**
 
 ---
 
-### 🎯 Goals for 2025
-- 📱 Launch a full-stack AI-based mobile app
-- 🛍️ Scale my e-commerce project "Homemade Heaven"
-- 🎓 Win a research or startup grant again!
+## 🎯 2025 Goals
+
+✅ Launch a **full-stack AI-powered mobile app**  
+✅ Take **Homemade Heaven** to the next level  
+🏆 Secure another **research/startup grant** and **build something unforgettable**
 
 ---
 
 > *“Code like a poet, debug like a warrior.”* — Vraj Suratwala ✨
 
+---
