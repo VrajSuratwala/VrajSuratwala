@@ -1,61 +1,68 @@
-<h1 align="center">Hey there 👋, I'm <span style="color:#ff5e5e;">Vraj Suratwala</span></h1>
-<h3 align="center">🚀 Passionate MSCIT Student | Code Alchemist | Tech Dreamer from 🇮🇳</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Hi+%F0%9F%91%8B%2C+I'm+Vraj+Suratwala;MSCIT+Student+from+India+%F0%9F%87%AE%F0%9F%87%B3;Tech+Enthusiast+%7C+Full-Stack+Dev+%7C+AI+Learner" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VrajSuratwala&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=VrajSuratwala&label=👀+Profile+Views&color=ff69b4&style=flat-square" alt="profile views"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-✨ I’m a curious creator who turns coffee into code and ideas into **impactful projects**.  
-🎓 Currently pursuing **M.Sc. in Information Technology**  
-💡 I love crafting **Web Apps**, **AI tools**, and **Smart E-commerce platforms**  
-💬 Talk to me about: `PHP`, `Django`, `JavaScript`, `HTML/CSS`, `MySQL`, `Firebase`, `AI/ML`  
-📫 Reach out: [suratwalavraj@gmail.com](mailto:suratwalavraj@gmail.com)
+🎓 Pursuing **M.Sc. in Information Technology**  
+🧠 Always exploring new things in **AI/ML**, **Web Dev**, and **Cloud**  
+💬 Ask me about: `PHP`, `Django`, `MySQL`, `JavaScript`, `Firebase`, `AI Models`  
+📫 Mail me at: [suratwalavraj@gmail.com](mailto:suratwalavraj@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,django,mysql,firebase,github" />
 </p>
+
+---
+
+## 🧩 Featured Projects
+
+| Project | Preview | Tech Stack |
+|--------|---------|------------|
+| **Homemade Heaven 🛍️** | ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xobDh5YjU3a3B3cW5vOTVnMWRsbDd4ZzA0aGFkczA4aWZ0NzZrNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tPghhb3107MvJB2/giphy.gif) | PHP, MySQL, JavaScript, Firebase |
+| **AI Leaf Detector 🌿** | ![demo](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif) | Python, OpenCV, ML, Flask |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VrajSuratwala&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VrajSuratwala&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VrajSuratwala&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VrajSuratwala&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VrajSuratwala&layout=compact&theme=merko&hide_border=true" width="40%" />
 </p>
 
 ---
 
-## 🔭 Currently Exploring
-- 🤖 Deep dive into **AI & ML** using `TensorFlow` and `OpenCV`
-- 🔐 Learning **Cybersecurity fundamentals** (because safety first!)
-- ☁️ Experimenting with **Firebase + Google Cloud deployments**
+## 📚 Currently Learning
+
+- 🤖 Machine Learning with `TensorFlow`, `Scikit-learn`
+- 🔐 Cybersecurity basics
+- ☁️ Cloud Functions with `Firebase` and `GCP`
 
 ---
 
-## 🎯 2025 Goals
+<h3 align="center">✨ Let's connect and build something cool! ✨</h3>
 
-✅ Launch a **full-stack AI-powered mobile app**  
-✅ Take **Homemade Heaven** to the next level  
-🏆 Secure another **research/startup grant** and **build something unforgettable**
-
----
-
-> *“Code like a poet, debug like a warrior.”* — Vraj Suratwala ✨
+<p align="center">
+  <a href="mailto:suratwalavraj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
 ---
+
+> *"Code like a poet, debug like a warrior."* — Vraj Suratwala ⚔️
