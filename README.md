@@ -22,7 +22,7 @@
 ## 🚀 My Digital Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,django,mysql,firebase,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,django,mysql,firebase,github,node" />
 </p>
 
 ---
