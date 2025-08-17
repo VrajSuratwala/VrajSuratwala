@@ -58,4 +58,4 @@
 
 ---
 
-> *"Code like a poet, debug like a warrior."* — Vraj Suratwala ⚔️
+> *"Code like a poet, debug like a warrior"* — Vraj Suratwala ⚔️
